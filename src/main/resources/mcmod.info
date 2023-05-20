@@ -1,0 +1,17 @@
+[
+    {
+        "modid":"${modId}",
+        "name":"${modName}",
+        "description":"A Mod about Matter, Energy and using them to conquer the world..",
+        "version":"${modVersion}",
+        "mcversion":"${minecraftVersion}",
+        "url":"https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
+        "updateUrl":"",
+        "authorList":[
+         "AlgorithmX2"
+        ],
+        "credits":"AlgorithmX2",
+        "logoFile":"assets/appliedenergistics2/meta/logo.png",
+        "screenshots":[]
+    }
+]
