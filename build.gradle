@@ -36,7 +36,7 @@ buildscript {
         }
         maven {
             // GTNH RetroFuturaGradle and ASM Fork
-            name "GTNH Maven"
+            name "Xinboshin Maven"
             url "http://jenkins.usrv.eu:8081/nexus/content/groups/public/"
             allowInsecureProtocol = true
         }
